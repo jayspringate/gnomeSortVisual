@@ -4,11 +4,62 @@ body {
 
 .title {
 	font-size: 72px;
+	font-family: Arial;
+	margin-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	opacity: 0.85;
+}
+
+.main {
+	height: 800px;
+	background-color: white;
+	opacity: 0.85;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .link {
 	margin-top: 40px;
 	font-size: 20px;
+}
+
+.headers {
+	font-size: 28px;
+	font-family: Arial;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.top {
+	margin-top: 20px;
+}
+
+.gnome {
+	height: 300px;
+	margin-left: -20px;
+	float: left;
+	margin-right: -20px;
+}
+
+.info {
+	font-size: 18px;
+	font-family: Arial;
+	margin-right: 50px;
+	margin-top: 15px;
+	margin-bottom: 30px;
+	line-height: 1.25;
+}
+
+.below-image {
+	margin-left: 50px;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 50px;
+	font-style: italic;
 }
 
 .team{
